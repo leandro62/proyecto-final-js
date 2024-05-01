@@ -1,0 +1,195 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Zapatillas Topper",
+        "color": "Blanco",
+        "precio": 68.500
+    },
+    {
+        "id": 2,
+        "nombre": "Zapatillas Puma",
+        "color": "Negro y Blanco",
+        "precio": 65.600
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas Topper",
+        "color": "Negro",
+        "precio": 63.200
+    },
+    {
+        "id": 4,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro y Blanco",
+        "precio": 58.500
+    },
+    {
+        "id": 5,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro y Blanco",
+        "precio": 55.300
+    },
+    {
+        "id": 6,
+        "nombre": "Zapatillas Nike",
+        "color": "Rosa y Blanco",
+        "precio": 78.500
+    },
+    {
+        "id": 7,
+        "nombre": "Zapatillas Topper",
+        "color": "Negro, Blanco y Rosa",
+        "precio": 48.800
+    },
+    {
+        "id": 8,
+        "nombre": "Zapatillas Nike",
+        "color": "Gris, Rosa y Blanco",
+        "precio": 72.500
+    },
+    {
+        "id": 9,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro, Rosa y Blanco",
+        "precio": 52.100
+    },
+    {
+        "id": 10,
+        "nombre": "Zapatillas Nike",
+        "color": "Rosa y Blanco",
+        "precio": 66.700
+    },
+    {
+        "id": 11,
+        "nombre": "Zapatillas Nike",
+        "color": "Rosa, Negro y Blanco",
+        "precio": 38.900
+    },
+    {
+        "id": 12,
+        "nombre": "Zapatillas Nike",
+        "color": "Blanco y Violeta",
+        "precio": 64.600
+    },
+    {
+        "id": 13,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro, Blanco y Gris",
+        "precio": 60.300
+    },
+    {
+        "id": 14,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro y Gris",
+        "precio": 79.200
+    },
+    {
+        "id": 15,
+        "nombre": "Zapatillas Nike",
+        "color": "Negro, Blanco y Azul",
+        "precio": 48.700
+    },
+    {
+        "id": 16,
+        "nombre": "Zapatillas Nike",
+        "color": "Verde, Negro y Blanco",
+        "precio": 38.100
+    },
+    {
+        "id": 17,
+        "nombre": "Remera de Vestir",
+        "color": "Negro",
+        "precio": 18.300
+    },
+    {
+        "id": 18,
+        "nombre": "Remera de Vestir",
+        "color": "Blanco",
+        "precio": 23.600
+    },
+    {
+        "id": 19,
+        "nombre": "Remera de Vestir",
+        "color": "Negro y Granate",
+        "precio": 13.900
+    },
+    {
+        "id": 20,
+        "nombre": "Remera de Vestir",
+        "color": "Blanco y Negro",
+        "precio": 48.700
+    },
+    {
+        "id": 21,
+        "nombre": "Remera de Vestir",
+        "color": "Negro",
+        "precio": 27.200
+    },
+    {
+        "id": 22,
+        "nombre": "Remera de Vestir",
+        "color": "Gris",
+        "precio": 19.600
+    },
+    {
+        "id": 23,
+        "nombre": "Remera de Vestir",
+        "color": "Marrón y Blanco",
+        "precio": 24.800
+    },
+    {
+        "id": 24,
+        "nombre": "Remera de Futbol",
+        "color": "Rosa",
+        "precio": 21.800
+    },
+    {
+        "id": 25,
+        "nombre": "Remera de Futbol",
+        "color": "Amarillo y Verde",
+        "precio": 48.700
+    },
+    {
+        "id": 26,
+        "nombre": "Remera de Futbol",
+        "color": "Negro, Rojo y Azul",
+        "precio": 48.700
+    },
+    {
+        "id": 27,
+        "nombre": "Remera de Futbol",
+        "color": "Blanco",
+        "precio": 48.700
+    },
+    {
+        "id": 28,
+        "nombre": "Remera de Futbol",
+        "color": "Azul y Amarillo",
+        "precio": 48.700
+    },
+    {
+        "id": 29,
+        "nombre": "Remera de Futbol",
+        "color": "Negro y Dorado",
+        "precio": 48.700
+    },
+    {
+        "id": 30,
+        "nombre": "Remera de Futbol",
+        "color": "Rojo y Blanco",
+        "precio": 48.700
+    },
+    {
+        "id": 31,
+        "nombre": "Remera de Futbol",
+        "color": "Blanco y Celeste",
+        "precio": 28.700
+    },
+    {
+        "id": 32,
+        "nombre": "Remera de Futbol",
+        "color": "Celeste y Blanco",
+        "precio": 48.700
+    }
+]
